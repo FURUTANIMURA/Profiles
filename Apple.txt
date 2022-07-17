@@ -97,12 +97,6 @@ USER-AGENT,com.apple.trustd*,AppleGlobalCDN
 
 #
 # Apple News
-#
-USER-AGENT,AppleNews*,{{apple_news_rule}}
-DOMAIN-SUFFIX,apple.news,{{apple_news_rule}}
-DOMAIN,news-events.apple.com,{{apple_news_rule}}
-DOMAIN,news-edge.apple.com,{{apple_news_rule}}
-DOMAIN,apple.comscoreresearch.com,{{apple_news_rule}}
 
 #
 # Apple 其他直连
